@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TPNour</string>
+    <string name="text_view_accueil">Bonjour! Veuillez saisir votre nom</string>
+    <string name="edit_text_nom">Nom</string>
+    <string name="btn_commencer">Commencer le Quiz</string>
+    <string name="text_view_titre_question1">Question 1</string>
+    <string name="text_view_titre_question2">Question 2</string>
+    <string name="text_view_titre_question3">Question 3</string>
+    <string name="text_view_titre_question4">Question 4</string>
+
+    <string name="error_nom">Veuillez saisir votre nom afin de commencer</string>
+
+    <string name="success_commencer">Le quiz va commencer</string>
+
+    <string name="text_view_question1">Quelle est la capitale de la France ?</string>
+    <string name="text_view_question2">Combien de pays dans l\'UE ?</string>
+    <string name="text_view_question3">Quel est la langue la moins parlée au monde ?</string>
+    <string name="text_view_question4">Quel est la pays le plus peuplé du monde ?</string>
+
+    <string name="text_view_reponse1_1">Paris</string>
+    <string name="text_view_reponse1_2">Lyon</string>
+    <string name="text_view_reponse1_3">Marseille</string>
+    <string name="text_view_reponse1_4">Toulouse</string>
+
+    <string name="text_view_reponse2_1">15</string>
+    <string name="text_view_reponse2_2">24</string>
+    <string name="text_view_reponse2_3">27</string>
+    <string name="text_view_reponse2_4">32</string>
+
+    <string name="text_view_reponse3_1">L\'artchi</string>
+    <string name="text_view_reponse3_2">Le Slibo</string>
+    <string name="text_view_reponse3_3">Le Rotokas</string>
+    <string name="text_view_reponse3_4">Le Piraha</string>
+
+    <string name="text_view_reponse4_1">USA</string>
+    <string name="text_view_reponse4_2">Chine</string>
+    <string name="text_view_reponse4_3">Inde</string>
+    <string name="text_view_reponse4_4">Indonésie</string>
+
+
+</resources>
